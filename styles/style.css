@@ -59,6 +59,7 @@
 .address {
     text-decoration: underline;
     text-underline-position: under;
+    font-style: normal;
     font-size: 18px;
     font-weight: 400;
     line-height: 1.35;
